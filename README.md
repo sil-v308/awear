@@ -1,1 +1,5 @@
 # awear
+First I used  Copilot and then I redid it using ChatGPT. Both AI tools guided be through building a custom landing page for my business. It helped me write  HTML and CSS code, integrate font, apply a color palette and improve the overall layout and styling.
+ChatGPT broke down each step into easy to follow instructions, from creating the repository and writing the HTML file such as customizing buttons. It made the process much faster compared to coding it myself. 
+One of the challenges was making sure all the styling and layout elements worked together across different sections. I also could not figure out how to change the font. When I attempted it, the look of the web site changed.
+AI is a useful coding assistant. It is like having a tutor, a designer, and a developer all in one. I found it especially helpful for a beginner like me, giving me the capability to bring a project to life without needing to master everything at once. It also taught me the  importance of clear instructions and structure when working with AI.
