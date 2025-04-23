@@ -1,1 +1,19 @@
+nav .socials .social-btn {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  background-color: var(--purple);
+  color: var(--lime);
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+nav .socials .social-btn:hover {
+  background-color: var(--lime);
+  color: var(--black);
+  border-color: var(--purple);
+  transform: scale(1.05);
+}
 
